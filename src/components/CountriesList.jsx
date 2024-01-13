@@ -2,7 +2,9 @@ import CountryItem from './CountryItem';
 import styles from './CountryItem.module.css'
 import Spinner from './Spinner';
 import Message from './Message';
-function CountriesList({cities,isloading}){
+import { useCity } from '../../context/CityContext';
+function CountriesList(){
+  const {cities,isloading} = useCity();
   console.log(cities);
   if(isloading) return <Spinner />
   if(!cities.length) return <Message message="No data exist,add your first cities" />
