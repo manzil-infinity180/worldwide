@@ -37,6 +37,18 @@
       "id": 98443197
     },
     {
+      "cityName": "Gorakhpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 26.8466937,
+        "lng": 80.946166
+      },
+      "id": 98483597
+    },
+    {
       "cityName": "Nijar",
       "country": "Spain",
       "emoji": "🇪🇸",
