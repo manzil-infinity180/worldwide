@@ -59,6 +59,66 @@
         "lng": "-2.13128394200588"
       },
       "id": 98443198
+    },
+    {
+      "id": "104e",
+      "cityName": "Avanos",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-14T18:34:25.740Z",
+      "notes": "dd",
+      "position": {
+        "lat": "38.75408327579141",
+        "lng": "34.76074218750001"
+      }
+    },
+    {
+      "id": "69cf",
+      "cityName": "Demba",
+      "country": "Congo (the Democratic Republic of the)",
+      "emoji": "🇨🇩",
+      "date": "2024-01-14T18:34:45.387Z",
+      "notes": "",
+      "position": {
+        "lat": "-5.266007882805498",
+        "lng": "21.796875000000004"
+      }
+    },
+    {
+      "id": "7fc9",
+      "cityName": "Severo-Yeniseyskiy",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-01-14T18:39:01.355Z",
+      "notes": "",
+      "position": {
+        "lat": "60.23981116999893",
+        "lng": "94.21875"
+      }
+    },
+    {
+      "id": "ce9d",
+      "cityName": "Garhmukteshwar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-14T18:43:46.470Z",
+      "notes": "",
+      "position": {
+        "lat": "28.729130483430154",
+        "lng": "78.00292968750001"
+      }
+    },
+    {
+      "id": "3022",
+      "cityName": "Sultanpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-14T18:44:09.509Z",
+      "notes": "nnn",
+      "position": {
+        "lat": "26.261399213411483",
+        "lng": "82.08160400390626"
+      }
     }
   ]
 }

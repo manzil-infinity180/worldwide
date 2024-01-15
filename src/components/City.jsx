@@ -15,7 +15,7 @@ const formatDate = (date) =>
 function City() {
   // TEMP DATA
   const {cities,currentCity, cityData} = useCity();
-  const [citydata,setCitydata] = useState({});
+ 
   const {id} = useParams();
   console.log(id,cities[0].id);
   console.log(currentCity)
@@ -26,14 +26,7 @@ function City() {
   // console.log(cities);
   // const value = cities.map((city)=> (city.id === id)? city : undefined );
   // console.log(value);
- function getFetchData(id){
-  console.log(id);
-   cities.map(function (city){
-      console.log(city.id == id);
 
-   });
- }
- getFetchData(id);
    
   const index = cities.findIndex((city)=> city.id == id);
 
